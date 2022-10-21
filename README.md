@@ -8,6 +8,9 @@ A map a day keeps the doctor away...
 
 **Tools used:**
 
-| Tool | Map count| 
-| -----|----------| 
-|      |          | 
+| Tool  | Map count| 
+| ------|----------| 
+| QGIS  |          | 
+| R     |          | 
+| Python|          | 
+| ArcGIS|          | 
