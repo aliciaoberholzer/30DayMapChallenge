@@ -10,7 +10,7 @@ A map a day keeps the doctor away...
 
 | Tool  | Map count| 
 | ------|----------| 
-| QGIS  |          | 
+| QGIS  |   1      | 
 | R     |          | 
 | Python|          | 
 | ArcGIS|          | 
