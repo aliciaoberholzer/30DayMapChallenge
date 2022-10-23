@@ -11,8 +11,8 @@ A map a day keeps the doctor away...
 | Tool  | Map count| 
 | ------|----------| 
 | QGIS  |   1      | 
-| R     |          | 
 | Python|          | 
+| R     |          | 
 | ArcGIS|          | 
 
 **Day 1: Points :purple_circle:**
