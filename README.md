@@ -10,7 +10,7 @@ A map a day keeps the doctor away...
 
 | Tool  | Map count| 
 | ------|----------| 
-| QGIS  |   1      | 
+| QGIS  |   2      | 
 | Python|          | 
 | R     |          | 
 | ArcGIS|          | 
@@ -20,3 +20,9 @@ A map a day keeps the doctor away...
 Are you an introvert like me and would rather sip coffee with cats than humans? Well then, a cat cafe might be perfect for you. Cat cafes originated in [Taiwan in 1998](https://www.smithsonianmag.com/travel/paying-purrs-japans-cat-cafes-180949536/) and have since become popular across the globe, especially in Japan, which has over 150 cat cafes with over 30 of them located in Tokyo. This map shows the abundance of cat cafes in Tokyo City :tokyo_tower: :smile_cat:! 
 
 ![Map V2](https://user-images.githubusercontent.com/92735518/197575635-b5f9c488-fe4e-454d-aed1-297d6d979ab2.jpeg)
+
+**Day 2: Lines :wavy_dash:**
+
+While making my day 1 map, I learned about Japan's abundant river network and was inspired to represent the country by its rivers. It's not surprising looking at this map to learn that hydropower accounts for almost half of Japan’s overall [renewable electricity generation] (https://iea.blob.core.windows.net/assets/3470b395-cfdd-44a9-9184-0537cf069c3d/Japan2021_EnergyPolicyReview.pdf). The country pledged to achieve net-zero emissions by 2050 and hydropower has a major role to play in fulfilling this commitment.
+
+![Japan rivers](https://user-images.githubusercontent.com/92735518/197623043-ca58a847-b14d-4615-8421-527312e18e72.jpeg)
