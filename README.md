@@ -23,6 +23,6 @@ Are you an introvert like me and would rather sip coffee with cats than humans? 
 
 **Day 2: Lines :wavy_dash:**
 
-While making my day 1 map, I learned about Japan's abundant river network and was inspired to represent the country by its rivers. It's not surprising, looking at this map, to learn that hydropower accounts for almost half of Japan’s overall [renewable electricity generation] (https://iea.blob.core.windows.net/assets/3470b395-cfdd-44a9-9184-0537cf069c3d/Japan2021_EnergyPolicyReview.pdf). The country pledged to achieve net-zero emissions by 2050 and hydropower has a major role to play in fulfilling this commitment.
+While making my day 1 map, I learned about Japan's abundant river network and was inspired to represent the country by its rivers. It's not surprising, looking at this map, to learn that hydropower accounts for almost half of Japan’s overall [renewable electricity generation](https://iea.blob.core.windows.net/assets/3470b395-cfdd-44a9-9184-0537cf069c3d/Japan2021_EnergyPolicyReview.pdf). The country pledged to achieve net-zero emissions by 2050 and hydropower has a major role to play in fulfilling this commitment.
 
 ![Japan rivers](https://user-images.githubusercontent.com/92735518/197623043-ca58a847-b14d-4615-8421-527312e18e72.jpeg)
