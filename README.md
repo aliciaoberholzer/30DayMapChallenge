@@ -19,7 +19,7 @@ A map a day keeps the doctor away...
 
 Are you an introvert like me and would rather sip coffee with cats than humans? Well then, a cat cafe might be perfect for you. Cat cafes originated in [Taiwan in 1998](https://www.smithsonianmag.com/travel/paying-purrs-japans-cat-cafes-180949536/) and have since become popular across the globe, especially in Japan, which has over 150 cat cafes with over 30 of them located in Tokyo. This map shows the abundance of cat cafes in Tokyo City :tokyo_tower: :smile_cat:! 
 
-![Day 1 map final](https://user-images.githubusercontent.com/92735518/197669468-5744a2b3-6d48-4b45-9e71-06da484c225d.jpeg)
+![Day 1 map final](https://user-images.githubusercontent.com/92735518/197671877-526fc2b2-10bb-44d4-80b0-3af9440811cc.jpeg)
 
 **Day 2: Lines :wavy_dash:**
 
