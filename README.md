@@ -1,5 +1,3 @@
-theme: THEME-NAME
-
 # 30DayMapChallenge :world_map:
 
 **My submissions to the 2022 [#30DayMapChallenge](https://www.achim-tack.org/30daymapchallenge).**
