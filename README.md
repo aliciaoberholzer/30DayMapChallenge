@@ -10,7 +10,13 @@ A map a day keeps the doctor away...
 
 | Tool  | Map count| 
 | ------|----------| 
-| QGIS  |          | 
+| QGIS  |    1     | 
 | Python|          | 
 | R     |          | 
 | Other |          | 
+
+Day 1: Points 🟣
+
+Are you an introvert like me and would rather sip coffee with cats than humans? Well then, a cat cafe might be perfect for you. Cat cafes [originated in Taiwan in 1998](https://catcafesd.com/about/#:~:text=One%20of%20the%20Japanese%20tourists,has%20over%20150%20cat%20cafes) and have since become popular across the globe, especially in Japan, which has over 150 cat cafes with over 30 of them located in Tokyo. This map shows the abundance of cat cafes in Tokyo City 🗼 😸!
+
+![Day 1 Final](https://user-images.githubusercontent.com/92735518/199236089-add59eff-6ec5-44ad-b716-a037c9c3cda4.jpeg)
