@@ -20,3 +20,9 @@ Day 1: Points 🟣
 Are you an introvert like me and would rather sip coffee with cats than humans? Well then, a cat cafe might be perfect for you. Cat cafes [originated in Taiwan in 1998](https://catcafesd.com/about/#:~:text=One%20of%20the%20Japanese%20tourists,has%20over%20150%20cat%20cafes) and have since become popular across the globe, especially in Japan, which has over 150 cat cafes with over 30 of them located in Tokyo. This map shows the abundance of cat cafes in Tokyo City 🗼 😸!
 
 ![Day 1 Final](https://user-images.githubusercontent.com/92735518/199236089-add59eff-6ec5-44ad-b716-a037c9c3cda4.jpeg)
+
+Day 2: Lines 〰️
+
+While making my day 1 map, I learned about Japan's abundant river network and was inspired to represent the country by its rivers. It's not surprising, looking at this map, to learn that hydropower accounts for almost (half of Japan’s overall renewable electricity generation)[https://www.hydropower.org/publications/2022-hydropower-status-report]. The country pledged to achieve net-zero emissions by 2050 and hydropower has a major role to play in fulfilling this commitment.
+
+![Japan rivers](https://user-images.githubusercontent.com/92735518/199490273-5f4c9829-1179-409f-b461-9118565ccdaa.jpeg)
