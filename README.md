@@ -11,7 +11,7 @@ A map a day keeps the doctor away...
 | Tool  | Map count| 
 | ------|----------| 
 | QGIS  |    2     | 
-| Python|          | 
+| Python|    1     | 
 | R     |          | 
 | Other |          | 
 
@@ -26,3 +26,11 @@ Day 2: Lines 〰️
 While making my day 1 map, I learned about Japan's abundant river network and was inspired to represent the country by its rivers. It's not surprising, looking at this map, to learn that [hydropower accounts for almost half of Japan’s overall renewable electricity generation](https://www.hydropower.org/publications/2022-hydropower-status-report). The country pledged to achieve net-zero emissions by 2050 and hydropower has a major role to play in fulfilling this commitment.
 
 ![Japan rivers](https://user-images.githubusercontent.com/92735518/199490273-5f4c9829-1179-409f-b461-9118565ccdaa.jpeg)
+
+Day 3 - Polygons 🟪
+
+Total # of meow meows rescued by animal shelters in each U.S. state in 2021
+
+This was my first time using #Plotly with #Python and it had a bit of a learning curve, so this map isn't as detailed as I'd like it to be, but I need to time box myself throughout the challenge!
+
+![Day 3 map](https://user-images.githubusercontent.com/92735518/199731729-77670843-6acc-4c52-9ad6-550939aafaa4.png)
