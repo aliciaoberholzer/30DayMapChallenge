@@ -10,7 +10,7 @@ A map a day keeps the doctor away...
 
 | Tool  | Map count| 
 | ------|----------| 
-| QGIS  |    2     | 
+| QGIS  |    3     | 
 | Python|    1     | 
 | R     |          | 
 | Other |          | 
@@ -33,4 +33,15 @@ Total # of meow meows rescued by animal shelters in each U.S. state in 2021
 
 This was my first time using #Plotly with #Python and it had a bit of a learning curve, so this map isn't as detailed as I'd like it to be, but I need to time box myself throughout the challenge!
 
-![Day 3 map](https://user-images.githubusercontent.com/92735518/199731729-77670843-6acc-4c52-9ad6-550939aafaa4.png)
+![Day 3 map](https://user-images.githubusercontent.com/92735518/199975778-6c178f84-d943-4a3a-81f1-1180bfe471d0.png)
+
+Day 4 - Green 🟩
+
+This map is meant to accompany a recent [Guardian article](https://bit.ly/3WtwOmy) written about forest loss in the DRC due to unsustainable harvesting of biomass for cooking.
+
+Large-scale transitions to #cleancooking are needed to protect people and the planet.
+
+Originally, I had loss portrayed as red, but red-green color blind folks wouldn't be able to see it, so I went with purple :). I'm trying to learn about accessibility as I make maps.
+
+![Day 4 map](https://user-images.githubusercontent.com/92735518/199975486-5a231442-51c5-4e6b-b41e-27e247aa217e.jpeg)
+
