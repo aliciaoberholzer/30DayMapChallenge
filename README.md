@@ -10,8 +10,8 @@ A map a day keeps the doctor away...
 
 | Tool  | Map count| 
 | ------|----------| 
-| QGIS  |    3     | 
-| Python|    1     | 
+| QGIS  |    5     | 
+| Python|    2     | 
 | R     |          | 
 | Other |          | 
 
@@ -44,4 +44,14 @@ Large-scale transitions to #cleancooking are needed to protect people and the pl
 Originally, I had loss portrayed as red, but red-green color blind folks wouldn't be able to see it, so I went with purple :). I'm trying to learn about accessibility as I make maps.
 
 ![Day 4 map](https://user-images.githubusercontent.com/92735518/199975486-5a231442-51c5-4e6b-b41e-27e247aa217e.jpeg)
+
+Day 6 - Networks 🕸️
+
+Nepal has ambitious climate targets and aims to achieve net-zero by 2050. The country has plans to leverage its immense hydropower potential to meet its goals and energy sovereignty.
+
+Here is Nepal's existing electricity transmission network:
+
+P.S. Can you spot the cross-border transmission line between Nepal & India?! This line is crucial for power trade between the two countries.
+
+![Day 6 map](https://user-images.githubusercontent.com/92735518/200190342-b6895278-8e9a-4c14-91c7-9b960721a2a8.jpeg)
 
