@@ -49,7 +49,7 @@ Day 5 - Ukraine 🇺🇦
 
 Ukraine is heavily dependent on nuclear energy, which powers nearly half of its electricity supply. In March, Russian armed forces took control of the Zaporizhzhia plant.
 
-This animated map shows daily new conflict events between February 24th and October 21st, in relation to nuclear power plant locations (minus the decommissioned Chernobyl plant).
+This animated map shows daily new conflict events between February 24th and October 21st, in relation to nuclear power plant locations (minus the decommissioned Chernobyl plant). Data for this map comes from: ACLED.
 
 ![](https://github.com/aliciaoberholzer/30DayMapChallenge/blob/main/Day5Map.gif)
 
