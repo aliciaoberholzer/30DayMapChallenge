@@ -29,9 +29,9 @@ While making my day 1 map, I learned about Japan's abundant river network and wa
 
 Day 3 - Polygons 🟪
 
-Total # of meow meows rescued by animal shelters in each U.S. state in 2021
+Total # of meow meows rescued by animal shelters in each U.S. state (contiguous) in 2021 
 
-This was my first time using #Plotly with #Python and it had a bit of a learning curve, so this map isn't as detailed as I'd like it to be, but I need to time box myself throughout the challenge!
+This was my first time using #Plotly with #Python and it had a bit of a learning curve, so this map isn't as detailed as I'd like it to be, but I need to time box myself throughout the challenge! After completing this map, I realized Hawaii and Alaska are missing so this only applies to the contiguous states...
 
 ![Day 3 map](https://user-images.githubusercontent.com/92735518/199975778-6c178f84-d943-4a3a-81f1-1180bfe471d0.png)
 
