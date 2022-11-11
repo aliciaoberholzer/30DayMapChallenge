@@ -63,4 +63,40 @@ P.S. Can you spot the cross-border transmission line between Nepal & India?! Thi
 
 ![Day 6 map](https://user-images.githubusercontent.com/92735518/200190342-b6895278-8e9a-4c14-91c7-9b960721a2a8.jpeg)
 
+Day 7 - Raster 📷
 
+I've barely worked with rasters, so I took this as an opportunity to learn more about the power of NASA's Black Marble. Here's a GIF of nighttime lights in Fort Myers, Florida 2 days after hurricane Ian made landfall vs. 7 days after, when the majority of power was restored. Ian was the deadliest hurricane to hit Florida since 1935. It was fascinating to learn about how the [Nighttime Blue/Yellow Composite can make detecting power outages easier(https://www.earthdata.nasa.gov/learn/articles/black-marble-blue-yellow-composite). I also picked two days with very little cloud coverage over Fort Myers to make the comparison of nighttime lights.
+
+![Day 7 map](https://github.com/aliciaoberholzer/30DayMapChallenge/blob/main/Day7map.gif)
+
+Day 8 - OpenStreetMap 🗺️
+
+My friend & colleague, Anobha Gurung, requested a momo-themed map for Nepal so here it is! The custom momo icons were brought to life by my sister, Céline Oberholzer, who is an incredible artist. You can check out more of her work [here](https://instagram.com/celineslines/). Please note that there are plenty of restaurants in Nepal that don't contain "momo" in their name but serve momos. This only shows the results of a query for restaurant names that contain "momo".
+
+![Day8map](https://user-images.githubusercontent.com/92735518/201444227-bac2e83b-64e5-4c4d-ab2d-5851f2cbd04e.png)
+
+Day 9 - Space 👾
+
+I was really tight on time for this one, so had to keep it simple! Here's an alien-themed map of U.S. UFO sightings since 1969:
+
+UFO alien cutie drawn by Céline Oberholzer...you can check out her art work [here](https://instagram.com/celineslines/).
+
+![Day 9 Map](https://user-images.githubusercontent.com/92735518/201444373-79e50915-26c1-498a-9b82-033b990ac432.png)
+
+Day 10 - Bad Map ❌
+
+Unlike most maps I've seen today, unfortunately my bad map wasn't intentionally made for today, but a mistake I made while working on an energy modeling research project 🙃.
+
+Nepal feat. a whole missing province (among other map atrocities).
+
+![FhOfnPdXEBcpVTp](https://user-images.githubusercontent.com/92735518/201444444-e7814cc8-40c1-45f6-84e2-d28755c1b699.png)
+
+Day 11 - Red 🔴
+
+I'm barely scraping by this challenge so I had to keep it simple again.
+
+0 out of 61 countries being analyzed by the Climate Action Tracker have climate policies and/or commitments compatible with meeting the Paris Agreement 1.5°c temperature limit 😪.
+
+The data being used was last updated in November, 2022. You can find it [here](https://climateactiontracker.org/countries/) and learn more about the methodology behind the rating.
+
+![Day 11 Map](https://user-images.githubusercontent.com/92735518/201444539-246ff8e4-82f1-412f-bb8d-4ce7ddb16e31.jpg)
