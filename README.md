@@ -10,7 +10,7 @@ A map a day keeps the doctor away...
 
 | Tool  | Map count| 
 | ------|----------| 
-| QGIS  |    5     | 
+| QGIS  |    14    | 
 | Python|    2     | 
 | R     |          | 
 | Other |          | 
@@ -65,7 +65,7 @@ P.S. Can you spot the cross-border transmission line between Nepal & India?! Thi
 
 Day 7 - Raster 📷
 
-I've barely worked with rasters, so I took this as an opportunity to learn more about the power of NASA's Black Marble. Here's a GIF of nighttime lights in Fort Myers, Florida 2 days after hurricane Ian made landfall vs. 7 days after, when the majority of power was restored. Ian was the deadliest hurricane to hit Florida since 1935. It was fascinating to learn about how the [Nighttime Blue/Yellow Composite can make detecting power outages easier(https://www.earthdata.nasa.gov/learn/articles/black-marble-blue-yellow-composite). I also picked two days with very little cloud coverage over Fort Myers to make the comparison of nighttime lights.
+I've barely worked with rasters, so I took this as an opportunity to learn more about the power of NASA's Black Marble. Here's a GIF of nighttime lights in Fort Myers, Florida 2 days after hurricane Ian made landfall vs. 7 days after, when the majority of power was restored. Ian was the deadliest hurricane to hit Florida since 1935. It was fascinating to learn about how the [Nighttime Blue/Yellow Composite can make detecting power outages easier](https://www.earthdata.nasa.gov/learn/articles/black-marble-blue-yellow-composite). I also picked two days with very little cloud coverage over Fort Myers to make the comparison of nighttime lights.
 
 ![Day 7 map](https://github.com/aliciaoberholzer/30DayMapChallenge/blob/main/Day7map.gif)
 
@@ -100,3 +100,29 @@ I'm barely scraping by this challenge so I had to keep it simple again.
 The data being used was last updated in November, 2022. You can find it [here](https://climateactiontracker.org/countries/) and learn more about the methodology behind the rating.
 
 ![Day 11 Map](https://user-images.githubusercontent.com/92735518/201444539-246ff8e4-82f1-412f-bb8d-4ce7ddb16e31.jpg)
+
+Day 12 - Scale :balance_scale:	
+
+Did you know? Pangolins are the only mammal covered head to toe by scales!
+
+I took today's theme as an opportunity to do a play on words and spotlight one of my favorite creatures, #Pangolins, which unfortunately also happen to be the world's most trafficked mammal.
+
+Learn more about Pangolins and how you can help save them [here](https://wildaid.org/three-ways-you-can-help-us-protect-pangolins/)
+
+P.S. Pangolin cutie drawn by Céline Oberholzer. You can checkout her artwork [here](https://www.instagram.com/celineslines/)
+
+![Day 12 Map](https://user-images.githubusercontent.com/92735518/202027204-ae4d04c8-97fe-441c-8aa7-031d6dce1081.jpg)
+
+Day 13 - 5 minute map ⏱️
+
+Street network of Chicago in honor of growing up near the incredibly city. However, I sure don't miss Chicago traffic...
+
+![Chicago](https://user-images.githubusercontent.com/92735518/202027420-8341fb12-c347-4b52-8a29-a82083c8a588.png)
+
+Day 14 - Hexagon & Day 15 - Food & Drink :doughnut:
+
+I was running low on time and running out of mapping energy so I combined Day 14 & Day 15. 
+
+One of the first things I learned about when I moved to the U.S. was the Dunkin' + Starbucks craze! Are you a Dunkin' or Starbucks fan (I am neither 😆)?
+
+![Day 15 map](https://user-images.githubusercontent.com/92735518/202028748-5083d143-5fc7-4255-9bb5-44e643e9c070.jpg)
