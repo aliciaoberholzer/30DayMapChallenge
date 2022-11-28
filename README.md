@@ -4,15 +4,18 @@
 
 I've been meaning to develop my spatial data visualization skills and what better way to finally take action than to participate in the [#30DayMapChallenge](https://www.achim-tack.org/30daymapchallenge) created by the phenomenal geographer, [Topi Tjukanov](https://tjukanov.org/)?! The idea is to publish a map every day of November aligned with a specified theme. In addition to the themes prescribed by Topi, many of my maps will be related to three themes I am passionate about: environment :evergreen_tree:, wildlife :sloth:, and energy :bulb:. My good friend and colleague correctly referred to this amalgamation of themes as chaotic, but maybe I'll find some way to tie them all together...I also have the ambitious goal of learning and applying a variety of mapping tools throughout the challenge, from QGIS to R. Let's see how it goes!
 
+At some point in the near future, I plan on updating this repo with my code and workflows for each map so that folks can reproduce and improve upon them.
+
 A map a day keeps the doctor away...
 
 **Tools used:**
 
 | Tool  | Map count| 
 | ------|----------| 
-| QGIS  |    14    | 
-| Python|    2     | 
+| QGIS  |    18    | 
+| Python|    3     | 
 | R     |          | 
+| B3D   |    1     | 
 | Other |          | 
 
 Day 1: Points 🟣
@@ -126,3 +129,63 @@ I was running low on time and running out of mapping energy so I combined Day 14
 One of the first things I learned about when I moved to the U.S. was the Dunkin' + Starbucks craze! Are you a Dunkin' or Starbucks fan (I am neither 😆)?
 
 ![Day 15 map](https://user-images.githubusercontent.com/92735518/202028748-5083d143-5fc7-4255-9bb5-44e643e9c070.jpg)
+
+Day 16 - Minimalist
+
+I was born near Zurich, Switzerland!
+
+My original plan to make a pretty map of the Zurich city center using #inkscape for the first time didn't go according to plan, so here is my "I'm too tired to keep mapping" version...
+
+![Day 16 Map](https://user-images.githubusercontent.com/92735518/204320271-09b0469c-ac72-4fc8-bd94-9fe89a7f4bd5.jpg)
+
+Day 17 - Map without a computer
+
+I am crazy about climbing, specifically bouldering.
+
+Here’s a picture of the map in the New River Gorge (West Virginia) bouldering guidebook, my favorite climbing spot in the world!
+
+![1668702516930](https://user-images.githubusercontent.com/92735518/204320957-d6c82393-0b4a-441d-adaf-d08313dce6bc.jpg)
+
+Day 18 - Blue
+
+I made my first interactive #Plotly map with #Python. It's not as polished as I'd like it to be but I learned a ton making it!
+
+You can check it out [here](https://aliciaoberholzer.github.io/2022-Police-Shootings/).
+
+This map was inspired by the work that the The Washington Post has been doing to increase transparency about police brutality, learn more [here](https://lnkd.in/gyeKs3yT). 
+
+![police](https://user-images.githubusercontent.com/92735518/204321391-d3e3a5e4-5c62-4285-b434-8e051df76341.png)
+
+Day 19 - Globe 🌍
+
+Running a day behind because getting acquainted with #blender & halfway through a 20-minute tutorial took me more than a whole day, so here is a halfway done globe 🥲.
+
+I always underestimate the learning curve associated with applying new tools!
+
+![Day19](https://user-images.githubusercontent.com/92735518/204322855-26cda262-649c-4d5e-828b-7cf0d3bab79b.png)
+
+Day 20 - my favorite...
+
+My favorite...animal is a sloth!
+
+Sloths are extremely vulnerable to deforestation & the pygymy three-toed sloth in particular is critically endangered. Learn more about how cool sloths are [here](https://lnkd.in/gNgFJPR3)
+
+The sloth graphic was brought to life by Céline Oberholzer, checkout her artwork [here](https://lnkd.in/gmtkCPCw)
+
+![Day 20 Map](https://user-images.githubusercontent.com/92735518/204323009-11382d2e-6ee3-4feb-8ab6-78b7ecfca27e.jpg)
+
+Day 21 - Kontur Population Dataset
+
+This map was inspired by my time living in WV with health issues.
+
+I had to go to the ER once and it took over a 30-minute drive to get there, which got me interested in emergency health service accessibility in rural America.
+
+I'd really like to improve upon this map by layering socioeconomic data, as well as using driving distances / times instead of nearest hub distance from centroids of the 400-meter hexagons (which is what I did here). I'd be grateful for any constructive feedback!
+
+![Day 21 Map](https://user-images.githubusercontent.com/92735518/204323083-b397dd05-6780-48f3-90a5-687751ef7aa2.jpg)
+
+Day 22 - Null
+
+This map was inspired by a recent [article](https://lnkd.in/grsTUjPU) written by the United Nations about how countries' efforts to tackle climate change are not enough to limit global temperature rise to 1.5 degrees celsius by the end of the decade.
+
+![Day 22 Map](https://user-images.githubusercontent.com/92735518/204323153-697a57dd-2dbe-4a3d-a367-9a8bf62f55e2.jpg)
