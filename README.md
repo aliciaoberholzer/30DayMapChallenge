@@ -12,8 +12,8 @@ A map a day keeps the doctor away...
 
 | Tool  | Map count| 
 | ------|----------| 
-| QGIS  |    18    | 
-| Python|    3     | 
+| QGIS  |    21    | 
+| Python|    4     | 
 | R     |          | 
 | B3D   |    1     | 
 | Other |          | 
@@ -189,3 +189,25 @@ Day 22 - Null
 This map was inspired by a recent [article](https://lnkd.in/grsTUjPU) written by the United Nations about how countries' efforts to tackle climate change are not enough to limit global temperature rise to 1.5 degrees celsius by the end of the decade.
 
 ![Day 22 Map](https://user-images.githubusercontent.com/92735518/204323153-697a57dd-2dbe-4a3d-a367-9a8bf62f55e2.jpg)
+
+Day 23 - Movement
+
+A timelapse version of my day 4 map about forest cover loss in the Democratic Republic of the Congo . I realize now that I should have replaced the basemap to make the loss standout more 😪 (lesson learned).
+
+![])https://github.com/aliciaoberholzer/30DayMapChallenge/blob/main/Day%2023%20GIF.gif)
+
+Day 24 - Fantasy
+
+My fantasy map didn't go according to plan so I present to you...my last resort.
+
+I'm not proud of this.
+
+![Slothfinal2](https://user-images.githubusercontent.com/92735518/205762963-e253370e-ca30-40ae-b822-2606150588c1.png)
+
+Day 25 - - 2 colors 
+
+My first bivariate choropleth map is based upon an analysis on gun law strength & gun violence rates in the U.S. conducted by Everytown Research & Policy. 
+
+Let me know what you think - I am always open to constructive feedback.
+
+![Day 25 Map](https://user-images.githubusercontent.com/92735518/205763062-7b5a96a9-fe12-456b-94e1-81220719ebf3.jpg)
