@@ -16,7 +16,7 @@ A map a day keeps the doctor away...
 | Python|    4     | 
 | R     |          | 
 | B3D   |    1     | 
-| Other |          | 
+| GEE   |    1     | 
 
 Day 1: Points 🟣
 
@@ -204,10 +204,26 @@ I'm not proud of this.
 
 ![Slothfinal2](https://user-images.githubusercontent.com/92735518/205762963-e253370e-ca30-40ae-b822-2606150588c1.png)
 
-Day 25 - - 2 colors 
+Day 25 - 2 colors 
 
 My first bivariate choropleth map is based upon an analysis on gun law strength & gun violence rates in the U.S. conducted by Everytown Research & Policy. 
 
 Let me know what you think - I am always open to constructive feedback.
 
 ![Day 25 Map](https://user-images.githubusercontent.com/92735518/205763062-7b5a96a9-fe12-456b-94e1-81220719ebf3.jpg)
+
+Day 26 - Islands :desert_island:
+
+I made a Google Earth Engine app that explores Puerto Rico night light intensity following Hurricane Maria in 2017 - it took ~11 months to restore power to all households who lost it:
+
+[Check out the app here](https://lnkd.in/gRAvfVEY)!
+
+This app was inspired by the [work](https://lnkd.in/gFQeQnti) NASA - National Aeronautics and Space Administration did to track power outages for disaster recovery in Puerto Rico following Hurricane Maria using its Black Marble product suite.
+
+I welcome any feedback on the app and will also share the code in my GitHub soon! Learning JavaScript was not the plan, but there are so many free Google Earth Engine resources available via NASA - National Aeronautics and Space Administration's Applied Remote Sensing Training Program, so it was really approachable.
+
+There were a couple things I couldn't figure out, such as getting the labels to appear on top of the selected night light layer 🥲 sometimes done is better than perfect...
+
+<img width="1440" alt="Screen Shot 2022-12-19 at 8 51 19 PM" src="https://user-images.githubusercontent.com/92735518/208570443-b36768dc-f973-43f7-b704-1d33765b053d.png">
+
+
