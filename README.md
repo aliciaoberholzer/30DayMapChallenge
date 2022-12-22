@@ -194,7 +194,7 @@ Day 23 - Movement
 
 A timelapse version of my day 4 map about forest cover loss in the Democratic Republic of the Congo . I realize now that I should have replaced the basemap to make the loss standout more 😪 (lesson learned).
 
-![])https://github.com/aliciaoberholzer/30DayMapChallenge/blob/main/Day%2023%20GIF.gif)
+![](https://github.com/aliciaoberholzer/30DayMapChallenge/blob/main/Day%2023%20GIF.gif)
 
 Day 24 - Fantasy
 
