@@ -12,7 +12,7 @@ A map a day keeps the doctor away...
 
 | Tool  | Map count| 
 | ------|----------| 
-| QGIS  |    21    | 
+| QGIS  |    22    | 
 | Python|    4     | 
 | R     |          | 
 | B3D   |    1     | 
@@ -226,4 +226,8 @@ There were a couple things I couldn't figure out, such as getting the labels to 
 
 <img width="1440" alt="Screen Shot 2022-12-19 at 8 51 19 PM" src="https://user-images.githubusercontent.com/92735518/208570443-b36768dc-f973-43f7-b704-1d33765b053d.png">
 
+Day 28 - Music 🎵 
 
+A quick one, inspired by the Odesza show I went to in Atlanta, Georgia in August of this year!
+
+![Day27Map](https://user-images.githubusercontent.com/92735518/209419404-4f49dd47-e698-4532-b29d-36865edf44cf.png)
