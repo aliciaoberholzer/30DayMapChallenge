@@ -10,13 +10,12 @@ A map a day keeps the doctor away...
 
 **Tools used:**
 
-| Tool  | Map count| 
-| ------|----------| 
-| QGIS  |    22    | 
-| Python|    4     | 
-| R     |          | 
-| B3D   |    1     | 
-| GEE   |    1     | 
+| Tool    | Map count| 
+| --------|----------| 
+| QGIS    |    23    | 
+| Python  |    4     |
+| B3D     |    1     | 
+| GEE (JS)|    1     | 
 
 Day 1: Points 🟣
 
@@ -226,8 +225,24 @@ There were a couple things I couldn't figure out, such as getting the labels to 
 
 <img width="1440" alt="Screen Shot 2022-12-19 at 8 51 19 PM" src="https://user-images.githubusercontent.com/92735518/208570443-b36768dc-f973-43f7-b704-1d33765b053d.png">
 
-Day 28 - Music 🎵 
+Day 27 - Music 🎵 
 
 A quick one, inspired by the Odesza show I went to in Atlanta, Georgia in August of this year!
 
 ![Day27Map](https://user-images.githubusercontent.com/92735518/209419404-4f49dd47-e698-4532-b29d-36865edf44cf.png)
+
+Day 28 & Day 29 - 3D & Out of my comfort zone
+
+A 3D view of one of the most beautiful climbing havens in Colorado - Mt. Evans & some accompanying photos of my time spent climbing in the surrounding area.
+
+When I started this challenge, I had no idea what DEMs, DSMs, and DTMs were and so I spent a lot of time learning leading up to this map!
+
+I had a lot of fun playing in the QGIS 3D Map View to make this map :D! First, I tried to use Blender but I gave up and decided to save that battle for another day...
+
+![Map](https://user-images.githubusercontent.com/92735518/210268699-82b29ac1-afe4-4df9-94f6-0bc6ec08ef21.png)
+
+Day 30 - Remix
+
+A remix of my Day 21 map (Kontur Population) using the TravelTime plugin for QGIS. I tried to incorporate some of the feedback I received from folks on the original map.
+
+![Day 30 Map](https://user-images.githubusercontent.com/92735518/210268767-a065f770-74f3-48e7-8333-39a397ff5311.png)
