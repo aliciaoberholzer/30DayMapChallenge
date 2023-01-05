@@ -245,4 +245,4 @@ Day 30 - Remix
 
 A remix of my Day 21 map (Kontur Population) using the TravelTime plugin for QGIS. I tried to incorporate some of the feedback I received from folks on the original map.
 
-![Day 30 Map](https://user-images.githubusercontent.com/92735518/210268767-a065f770-74f3-48e7-8333-39a397ff5311.png)
+![Day30Mapv2](https://user-images.githubusercontent.com/92735518/210874359-19d6eea6-9a64-49a3-9e62-507fd05b868f.png)
